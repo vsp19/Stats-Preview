@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+    margin: 10%;
+}
+.content{
+    background-color: hsl(244, 38%, 16%);
+    padding:20px 50px 20px 50px;
+    display: inline-block;
+    width:40%;
+}
+.pic{
+    display: inline-block;
+    position:absolute;
+    color: hsl(277, 64%, 61%);
+}
+h1{
+    color: #ffffff;
+    font-family: 'Inter',sans-serif;
+}
+p{
+    color: #f8f8ff;
+    font-family: 'Lexend Deca',sans-serif;
+}
+span{
+    color: hsl(277, 64%, 61%) ;
+}
+.image{
+    width: 505.335px;
+    height: 415px;
+    background-blend-mode: color;
+    filter: invert(3%) sepia(98%) saturate(3932%) hue-rotate(237deg) brightness(70%) contrast(70%);
+}
+h3{
+    color: #fffffd;
+    font-family: 'Inter',sans-serif;
+}
+.sub{
+    text-transform: uppercase;
+}
+.sub2{
+    display: inline-block;
+    width: fit-content;
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    padding-left: 0%;
+}
+.end{
+    display: inline-block;
+}
